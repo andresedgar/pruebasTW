@@ -1,3 +1,21 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16;
+}
 
 
+.cajas {
+
+	background: #6EBBD5;
+	margin-bottom: 20px;
+	padding: 10px;
+
+
+}
+
+
+.fondoa{
+	background: #6EBBD5;
+	padding: 10px;
+}
 
